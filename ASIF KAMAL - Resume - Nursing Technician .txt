@@ -14,9 +14,9 @@ PERSONAL INFORMATION
   Hobbies: 
 
 LANGUAGES
-  ★★★☆☆ English
-  ★★★☆☆ Urdu
-  ★☆☆☆☆ Arabic
+  ★★★☆☆ English,
+  ★★★☆☆ Urdu,
+  ★☆☆☆☆ Arabic,
 
 SKILLS
   ★★★★★ Communication
